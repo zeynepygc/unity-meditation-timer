@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 63ea1e4f89c5ac647b364d4dc573a00e
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - timerText: {instanceID: 0}
+  - instructionText: {instanceID: 0}
+  - practiceImage: {instanceID: 0}
+  - mantraSprite: {instanceID: 0}
+  - candleSprite: {instanceID: 0}
+  - yantraSprite: {instanceID: 0}
+  - pranayamaSprite: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
