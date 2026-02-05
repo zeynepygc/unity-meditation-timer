@@ -45,15 +45,7 @@ TextMeshPro
 
 
 
-🚀 How to Run
 
-Clone the repo
-
-Open with Unity Hub
-
-Open the project
-
-Press Play in the Unity Editor
 
 📌 Project Status
 
